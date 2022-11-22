@@ -1,1 +1,2 @@
 Hello GDSC
+This is Git Training Session
