@@ -7,3 +7,4 @@ This is test conflict
 This is from new-branch
 
 Trieu04 add new line
+// Some stuff
