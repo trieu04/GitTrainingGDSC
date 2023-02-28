@@ -4,6 +4,4 @@ We are happy to be here
 This is another line (change at GitHub)
 This is another line make by branch add-more-line
 This is test conflict
-This is from new-branch 
-
-add name giap
+This is from new-branch
