@@ -10,3 +10,5 @@ Trieu04 add new line
 // Some stuff
 
 // User A add some line
+
+// User B add some change
